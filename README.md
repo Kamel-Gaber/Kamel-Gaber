@@ -25,4 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamel-gaber&show_icons=true&locale=en" alt="kamel-gaber" /></p>
 
-![snake](github-user-contribution.svg)
